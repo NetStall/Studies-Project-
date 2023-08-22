@@ -1,0 +1,8 @@
+I am implemented List structure and some methods for it
+
+-add new element to list
+- delete element from head
+- Cycling move on k elements to left
+- print list
+- delete list
+- finish program
